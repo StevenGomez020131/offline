@@ -2,7 +2,7 @@
     "name": "Mi primera PWA offline",
     "short_name": "PWA offline",
     "description": "Una aplicacion web progresiva que funciona sin conexion",
-    "start-url" : "./index.html",
+    "start_url" : "./index.html",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#007bff",
